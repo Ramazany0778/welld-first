@@ -1,18 +1,18 @@
 body {
 
-    font-family: Arial, serif;
+    front-family: Arial;
     background-color: aliceblue;
     padding: 15px;
     margin: 0;
 }
 
 header {
-    font-family: Arial, serif;
+    front-family: Arial;
     background: crimson;
 }
 
 main {
-    font-family: Open-sans, serif;
+    front-family: Open-sans;
     text-decoration-color: aquamarine;
     --body-text-color: aquamarine;
     padding: 10px;

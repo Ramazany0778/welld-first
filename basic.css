@@ -9,6 +9,7 @@ body {
 header {
     front-family: Arial;
     background: crimson;
+    padding-right: 30px;
 }
 
 main {

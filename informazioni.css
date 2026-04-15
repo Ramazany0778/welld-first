@@ -1,4 +1,13 @@
 body {
     font-family: Arial, serif;
-    background: aquamarine;
+    background: gainsboro;
+    padding: 15px;
+    margin: 0;
 }
+
+header {
+    font-family: Arial, serif;
+    background: crimson;
+    padding: 12px;
+}
+

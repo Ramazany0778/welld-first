@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-scripts-webpack": "^1.1.4",
+    "react-server-dom-webpack": "^19.2.5"
+  }
+}

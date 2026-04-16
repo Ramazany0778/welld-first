@@ -18,5 +18,5 @@ function trovaIlLavoro() {
                 </p>
             </div>
         </>
-    );
+    )
 }

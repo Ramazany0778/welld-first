@@ -48,21 +48,5 @@ function Login() {
   );
 }
 
-export default Login;
+export default Login
 
-function loginButton() {
-
-  return (
-
-      <>
-        <navigation>
-          <ul>
-            <li>
-              <a href="./App.jsx"></a>
-            </li>
-          </ul>
-        </navigation>
-      </>
-
-  )
-}

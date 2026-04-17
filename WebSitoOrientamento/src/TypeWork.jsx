@@ -26,6 +26,7 @@ function WorkCategoryRow({ category }) {
     <tr>
       <th colSpan="2">{category}</th>
     </tr>
+      
   );
 }
 
@@ -41,6 +42,7 @@ function WorkRow({ work }) {
       <td>{name}</td>
       <td>{work.posti}</td>
     </tr>
+
   );
 }
 
@@ -71,6 +73,7 @@ function WorkTable({ works, filterText, inStockOnly }) {
           <th>Nome</th>
           <th>Posti</th>
         </tr>
+      <hr />
       </thead>
       <tbody>{rows}</tbody>
     </table>

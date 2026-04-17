@@ -9,17 +9,16 @@ function cosaFacciamo() {
     return (
         <>
             <div>
-                <p>
+                <p1>
                     cosa offriamo per voi: {Siamo}
-                </p>
+                </p1>
                 <br />
-                <p>
+                <p1>
                     Spero che {mesaggioPers}
-                </p>
+                </p1>
             </div>
         </>
     );
-
-
 }
 
+export default cosaFacciamo

@@ -1,4 +1,5 @@
 import React from "react";
+import "./CreateAccount.css"
 
 
 function Age() {
@@ -14,7 +15,7 @@ function Age() {
 }
 
 function canWork() {
-  alert({ canWork } >= 15 ? "puoi lavorare" : "non puoi lavorare");
+  alert({ Age } >= 15 ? "puoi lavorare" : "non puoi lavorare");
 }
 
 function CreateAccount() {
@@ -34,7 +35,7 @@ function CreateAccount() {
   return (
     <>
       <div>
-        <h1>Create account</h1>
+        <h11>Create account</h11>
       </div>
       <div>
         <p>UserName</p>
@@ -66,7 +67,10 @@ function CreateAccount() {
 
       <div>
         <p> Age </p>
-        <input type={Age} />
+        <input type="numero"
+        value={Age}
+        placeholder="Checking..."
+        onChange={(e) => canWork(e.target.checked)} />
       </div>
 
       <hr />

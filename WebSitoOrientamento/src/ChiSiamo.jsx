@@ -12,15 +12,17 @@ function ChiSiamo() {
 
     return (
 <>
-   <div>
-        <p>
+   <div10>
+        <p1>
             Siamo {Siamo}
-        </p>
+        </p1>
        <br />
-       <p>
+       <p1>
            Questo progetto: {QuestoProgetto}
-       </p>
-   </div>
+       </p1>
+   </div10>
 </>
     );
 }
+
+export default ChiSiamo

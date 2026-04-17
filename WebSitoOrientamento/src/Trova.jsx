@@ -1,7 +1,7 @@
 import React from "react";
-import "./TrovaIlLavoro.css";
+import "./Trova.css";
 
-function trovaIlLavoro() {
+function Trova() {
     const perTrovareIlLavoro = "Ora vai sul FindWork e cerca il tuo lavoro desiderato ";
     const Tu = "Analizza molto bene il nostro sito.";
 
@@ -9,14 +9,16 @@ function trovaIlLavoro() {
     return(
         <>
             <div>
-                <p>
+                <p1>
                    {perTrovareIlLavoro}
-                </p>
+                </p1>
                 <br />
-                <p>
+                <p1>
                     {Tu}
-                </p>
+                </p1>
             </div>
         </>
     )
 }
+
+export default Trova

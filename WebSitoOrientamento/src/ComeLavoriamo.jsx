@@ -9,15 +9,17 @@ function comeLavoriamo() {
         <>
         <div>
 
-            <p>
+            <p1>
                 Come lavoriamo: {noiLavoriamo}
-            </p>
+            </p1>
             <br />
-            <p>
+            <p1>
                 In questo modo {inQuestoModo}
-            </p>
+            </p1>
 
         </div>
         </>
     );
 }
+
+export default comeLavoriamo

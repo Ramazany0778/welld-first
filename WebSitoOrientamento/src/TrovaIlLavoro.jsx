@@ -1,5 +1,5 @@
 import React from "react";
-import "./trovaIlLavoro.css";
+import "./TrovaIlLavoro.css";
 
 function trovaIlLavoro() {
     const perTrovareIlLavoro = "Ora vai sul FindWork e cerca il tuo lavoro desiderato ";

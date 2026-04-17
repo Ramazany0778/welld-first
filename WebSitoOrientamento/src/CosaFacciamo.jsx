@@ -1,5 +1,5 @@
 import React from "react";
-import "./cosaFacciamo.css";
+import "./CosaFacciamo.css";
 
 function cosaFacciamo() {
 

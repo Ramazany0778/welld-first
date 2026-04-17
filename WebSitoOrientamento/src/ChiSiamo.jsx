@@ -1,5 +1,5 @@
 import React from "react";
-import "./chiSiamo.css";
+import "./ChiSiamo.css";
 
 const QuestoProgetto = "Per aiutare a chi cerca un lavoro.";
 const Siamo = "un grande gruppo refiremento di voi";

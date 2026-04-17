@@ -1,5 +1,5 @@
 import React from "react";
-import "./comeLavoriamo.css";
+import "./ComeLavoriamo.css";
 
 function comeLavoriamo() {
     const noiLavoriamo = "noi guardiamo per le offerte di lavoro e vi avvisiamo";

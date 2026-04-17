@@ -9,10 +9,10 @@ import Menu from "./Menu";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
-  <StrictMode>
-    <App />
-    <Footer />
-    <Login />
-    <Menu />
-  </StrictMode>
+
+    <App />,
+    <Footer />,
+    <Login />,
+    <Menu />,
+
 );
